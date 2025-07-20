@@ -1,0 +1,5 @@
+{
+  "name": "Director's AI",
+  "description": "A Gemini-Powered Video Prompt Generation Application. It serves as a virtual director's assistant, enabling users to generate high-quality, creative, and technically detailed prompts for AI video generation models through a guided or advanced interface.",
+  "requestFramePermissions": []
+}
